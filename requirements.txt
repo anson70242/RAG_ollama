@@ -1,0 +1,12 @@
+ollama
+pandas
+pydantic
+python-dotenv
+langchain
+langchain_community
+langchain_huggingface
+langchain_text_splitters
+rank-bm25
+huggingface_hub
+nltk
+transformers
