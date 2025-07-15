@@ -11,7 +11,7 @@ pip install -r requirements.txt
 **If you use Conda:**
 
 ```bash
-conda create -n RAG python=3.12
+conda create -n RAG python=3.12 -y
 conda activate RAG
 pip install -r requirements.txt
 ```
