@@ -1,11 +1,11 @@
-queries, answers
-"How much of a day do cats spend sleeping on average?", "2/3"
-"What is the technical term for a cat's hairball?", "Bezoar"
-"What do scientists believe caused cats to lose their sweet tooth?", "a mutation in a key taste receptor"
-"What is the top speed a cat can travel over short distances?", ["31 mph", "49 km"]
-"What is the name of the organ in a cat's mouth that helps it smell?", "Jacobson’s organ"
-"Which wildcat is considered the ancestor of all domestic cats?", "the African Wild Cat"
-"What is the group term for cats?", "clowder"
-"How many different sounds can cats make?", "100"
-"What is the name of the first cat in space?", ["Felicette", "Astrocat"],
-"How many toes does a cat have on its back paws?", "four"
+queries,answers
+"How much of a day do cats spend sleeping on average?","2/3"
+"What is the technical term for a cat's hairball?","Bezoar"
+"What do scientists believe caused cats to lose their sweet tooth?","a mutation in a key taste receptor"
+"What is the top speed a cat can travel over short distances?","31 mph, 49 km"
+"What is the name of the organ in a cat's mouth that helps it smell?","Jacobson’s organ"
+"Which wildcat is considered the ancestor of all domestic cats?","the African Wild Cat"
+"What is the group term for cats?","clowder"
+"How many different sounds can cats make?","100"
+"What is the name of the first cat in space?","Felicette, Astrocat"
+"How many toes does a cat have on its back paws?","four"

@@ -15,3 +15,5 @@ transformers
 ipywidgets
 sentence-transformers
 peft
+chromadb
+pandas
