@@ -1,3 +1,4 @@
+ipython
 ollama
 pandas
 pydantic
@@ -11,3 +12,6 @@ rank-bm25
 huggingface_hub
 nltk
 transformers
+ipywidgets
+sentence-transformers
+peft
